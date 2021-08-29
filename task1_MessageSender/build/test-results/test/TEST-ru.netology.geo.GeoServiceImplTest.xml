@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.geo.GeoServiceImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-08-29T18:43:52" hostname="LAPTOP-PKOTEVM6" time="0.052">
+  <properties/>
+  <testcase name="[1] 96." classname="ru.netology.geo.GeoServiceImplTest" time="0.041"/>
+  <testcase name="[2] 96.3.56.25" classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <testcase name="[1] 172." classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <testcase name="[2] 172.3.56.25" classname="ru.netology.geo.GeoServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

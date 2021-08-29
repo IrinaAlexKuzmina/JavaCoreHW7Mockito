@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.i18n.LocalizationServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-29T18:43:52" hostname="LAPTOP-PKOTEVM6" time="0.006">
+  <properties/>
+  <testcase name="localeTest_verifyRussia()" classname="ru.netology.i18n.LocalizationServiceImplTest" time="0.005"/>
+  <testcase name="localeTest_verifyUSA()" classname="ru.netology.i18n.LocalizationServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
