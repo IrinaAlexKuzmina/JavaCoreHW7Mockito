@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.sender.MessageSenderImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-29T18:43:52" hostname="LAPTOP-PKOTEVM6" time="0.531">
-  <properties/>
-  <testcase name="[1] 172., РџСЂРёРІРµС‚!" classname="ru.netology.sender.MessageSenderImplTest" time="0.516"/>
-  <testcase name="[2] 96., Hello!" classname="ru.netology.sender.MessageSenderImplTest" time="0.009"/>
-  <system-out><![CDATA[РћС‚РїСЂР°РІР»РµРЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ: РџСЂРёРІРµС‚!РћС‚РїСЂР°РІР»РµРЅРѕ СЃРѕРѕР±С‰РµРЅРёРµ: Hello!]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
